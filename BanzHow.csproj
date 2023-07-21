@@ -143,6 +143,7 @@
     <Content Include="banzhow\banzhow\portfolio-item.html" />
     <Content Include="banzhow\banzhow\services.html" />
     <Content Include="banzhow\banzhow\sidebar.html" />
+    <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -195,6 +196,8 @@
     <Content Include="Views\Home\Services.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Blog\Details.cshtml" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
